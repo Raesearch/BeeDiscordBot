@@ -1,2 +1,2 @@
 # BeeDiscordBot
-Private bot to use on my discord server
+Private bot to use on my Discord server
